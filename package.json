@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node main"
   },
-  "author": "",
+  "author": "Mathieu Colmon",
   "license": "ISC",
   "dependencies": {
     "sqlite3": "^5.0.2",
